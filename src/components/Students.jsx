@@ -1,5 +1,5 @@
 import React from 'react'
-import students from '../data/studentsData'
+import students from '../data/students-data'
 import { useParams, Link } from 'react-router-dom'
 const Students = () => {
 const { id } = useParams()

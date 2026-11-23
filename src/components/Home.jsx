@@ -1,5 +1,5 @@
 
-import students from '../data/studentsData'
+import students from '../data/students-data'
 import { Link } from 'react-router-dom'
 
 function Home() {
