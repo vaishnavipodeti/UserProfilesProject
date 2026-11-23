@@ -46,7 +46,7 @@ const students = [
     college: "Government City College",
     age: 22,
     gender: "Male",
-    email: "kiran@example.com",
+    email: "srij@example.com",
     about: "Enjoys building applications and exploring new technologies."
   }
 ];
